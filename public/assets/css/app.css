@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+.container {
+  max-width: 90%;
+}
+
+.clearfix {
+  clear: both;
+  content: ' ';
+  height: 1px;
+  float: none;
+}
